@@ -4,7 +4,7 @@
 
 A single player battleship game where the player tries to sink all of the oponent's ships
 
-[LIVE](https://furiousluck.github.io/BattleShip/)
+[LIVE](https://furiousluck.github.io/BattleShip/dist/index.html)
 
 # Project
 
